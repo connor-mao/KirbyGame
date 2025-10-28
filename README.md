@@ -1,5 +1,5 @@
 
-**Kirby Game**
+# Kirby Game
 
 A minigame built with Processing (Java)
 
